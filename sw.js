@@ -1,5 +1,5 @@
 /* NL Builder — offline cache */
-const CACHE = 'nl-builder-v4';
+const CACHE = 'nl-builder-v7';
 const FILES = [
   './', './index.html', './manifest.json', './three.min.js',
   './icon-192.png', './icon-512.png', './icon-1024.png'
